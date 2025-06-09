@@ -1,6 +1,6 @@
 # Kevin A. VanDriel – Principal Software Developer & Systems Architect
 
-I’m Kevin A. VanDriel, a senior software engineer and cloud architect based in Washington State, USA, with over two decades of experience leading scalable system design, disaster recovery, and business continuity for regulated environments across the U.S. and EU. View my full professional experience on LinkedIn.
+I’m Kevin A. VanDriel, a senior software engineer in Washington State, USA, with over two decades of experience leading scalable systems. View my full professional experience on LinkedIn.
 
 ---
 
